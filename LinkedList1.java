@@ -220,8 +220,8 @@ package LinkedList;
         System.out.println("insert the order at the Sorted list:"+x);  
         x.insertOrder(35);
         System.out.println("insert the order at the Sorted list:"+x);
-        // int m = Maximum();
-       //System.out.println(m);
+         int m = Maximum();
+       System.out.println(m);
     
     
     
